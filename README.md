@@ -23,9 +23,9 @@ tzname: "Europe/Madrid"
 hours_recent: 24
 
 email:
-  user: "anartz2001@gmail.com"   # remitente
+  user: "marvilchesros@gmail.com"   # remitente
   to_emails:
-    - "anartz2001@gmail.com"     # destinatarios
+    - "mmvilches@enagas.es"     # destinatarios
 
 sources:
   - name: "MARCA"
