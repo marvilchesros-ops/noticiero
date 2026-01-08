@@ -22,5 +22,5 @@ jobs:
 
       - name: Ejecutar recolector
         env:
-          SMTP_PASS: ${{ secrets.SMTP_PASS }} # Carga la contraseña del correo desde los secretos de GitHub
+          SMTP_PASS: ${{ secrets.SMTP_PASS }} # hhsf jleh rmix rvof
         run: python marca_harvester.py        # Ejecuta el script principal que recoge las noticias
